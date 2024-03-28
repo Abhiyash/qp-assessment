@@ -12,4 +12,4 @@ It contains the following endpoints
 Entity Relationship Diagram for the App
 
 
-![GroceryApp](https://github.com/Abhiyash/qp-assessment/assets/26504225/10e76e98-e45c-4c16-aa9d-8518588eddfe)
+![GroceryApp](https://github.com/Abhiyash/qp-assessment/assets/26504225/b06acf79-c1c6-4f71-9e1c-0f74e09ae645)
